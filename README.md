@@ -1,4 +1,4 @@
-## Here is a random joke that'll make you laugh!
+## Here is a random joke for you!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 _____________________________________
 
