@@ -1,7 +1,8 @@
 ## Here is a random joke for you!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 _____________________________________
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoFattorini&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatteoFattorini)](https://git.io/streak-stats)
+
 _____________________________________
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
