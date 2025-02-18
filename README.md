@@ -31,5 +31,3 @@ Here's a random joke just for you:
 [![Profile View Counter](https://komarev.com/ghpvc/?username=MatteoFattorini)](https://github.com/MatteoFattorini)
 
 ---
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech (or games)!
