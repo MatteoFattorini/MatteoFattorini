@@ -20,10 +20,6 @@ I'm Matteo, a passionate backend engineer with a focus on PHP and a love for all
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-### 📊 GitHub Stats
-[![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatteoFattorini&show_icons=true&theme=dark)](https://github.com/MatteoFattorini)
-
----
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=MatteoFattorini)](https://github.com/MatteoFattorini)
 
