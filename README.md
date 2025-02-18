@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Matteo, a passionate backend engineer with a focus on PHP and a love for all things AI. I enjoy experimenting with new tools, optimizing backend systems, and diving into new programming languages. When I'm not coding, you can find me playing games.
+Hi, I'm Matteo—a dedicated backend engineer specializing in PHP with a deep passion for artificial intelligence. I thrive on exploring cutting-edge technologies, optimizing complex backend systems, and diving into new programming languages. When I'm not coding, you can usually find me unwinding with a good game.
 
 ---
 
