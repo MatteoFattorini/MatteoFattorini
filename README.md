@@ -15,10 +15,6 @@ Here's a random joke just for you:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MatteoFattorini)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatteoFattorini&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoFattorini)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MatteoFattorini)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MatteoFattorini)](https://github.com/ryo-ma/github-profile-trophy)
