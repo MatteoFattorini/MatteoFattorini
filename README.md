@@ -8,7 +8,7 @@ Hi, I'm Matteo—a dedicated backend engineer specializing in PHP with a deep pa
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatteoFattorini&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatteoFattorini)](https://git.io/streak-stats)
 
 ---
 
