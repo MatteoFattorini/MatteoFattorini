@@ -1,18 +1,25 @@
 ### Hi there! 👋
-Hi, I'm Matteo—a dedicated backend engineer specializing in PHP with a deep passion for artificial intelligence. I thrive on exploring cutting-edge technologies, optimizing complex backend systems, and diving into new programming languages. When I'm not coding, you can usually find me unwinding with a good game.
+
+I'm **Matteo** – a passionate backend engineer with a love for all things PHP and AI. I thrive on exploring innovative technologies, optimizing complex backend systems, and diving into new programming languages. When I'm not coding, you can find me immersed in a good game.
 
 ---
 
-## Here is a random joke for you!
+## A Little Fun Break
+
+Here's a random joke just for you:
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
+
+## My GitHub Journey
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MatteoFattorini)](https://git.io/streak-stats)
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,3 +30,6 @@ Hi, I'm Matteo—a dedicated backend engineer specializing in PHP with a deep pa
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=MatteoFattorini)](https://github.com/MatteoFattorini)
 
+---
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech (or games)!
