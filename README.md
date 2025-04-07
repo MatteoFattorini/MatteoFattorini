@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Matteo** – a passionate backend engineer with a love for all things PHP and AI. I thrive on exploring innovative technologies, and diving into new programming languages. When I'm not coding, you can find me immersed in a good game.
+I'm **Matteo** – a passionate backend engineer with a love for all things AI related. I thrive on exploring innovative technologies, and diving into new programming languages. When I'm not coding, you can find me immersed in a good game.
 
 ---
 
